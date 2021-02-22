@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer name="StaticMap" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZQBKKaWm2CBRT2x5ks2lhB7r5vMPEDlqGFS8Dwg/UtAPZD8h20CqcaGUHuj20zBvoeKQBAEq5BXM=
+  </data>
+ </layer>
+ <layer name="Objetos" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwVwDbQDyAQgdwvS2A5am48NiA+AnaNgFMAAAPQ0AE4=
+  </data>
+ </layer>
+</map>
